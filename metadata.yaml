@@ -1,10 +1,13 @@
 _repo: Essay-On-The-Character-And-Influence-Of-Washington-in-the-Revolution-Of-The-United-States-Of-__60668
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hillard, George S.
     gutenberg_agent_id: '51079'
     url: http://www.gutenberg.org/2009/agents/51079
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Guizot, François
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/François_Guizot
     - https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60668#Essay-On-The-Character-And-Influence-Of-Washington-in-the-Revolution-Of-The-United-States-Of-_
 gutenberg_issued: '2019-11-11'
 gutenberg_type: Text
 identifiers:
